@@ -10,3 +10,4 @@ for i in mf_fn[0:365]:
 
 
 print(list_font)
+print("上传成功")
